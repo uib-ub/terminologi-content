@@ -1,4 +1,4 @@
-::H2C{id="#main"}
+::Heading2{id="#main"}
 Velkommen til Termportalen
 ::
 
