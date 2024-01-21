@@ -1,4 +1,4 @@
-## [Velkommen til Termportalen]{#main}
+## Velkommen til Termportalen{#main}
 
 Termportalen gir fri tilgang til norsk terminologi på en lang rekke
 fagområder via én felles søkerute. Du kan søke etter termer på tvers
