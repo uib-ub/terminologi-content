@@ -1,4 +1,4 @@
-::HeadingTp{level="2" id="#main"}
+::HeadingTp{level="h2" headingId="#main"}
 Velkommen til Termportalen
 ::
 
