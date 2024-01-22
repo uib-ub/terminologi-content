@@ -19,5 +19,10 @@ Kulturdepartementet.
 Ønsker du å komme i gang med terminologiarbeid på ditt fagområde eller
 har du terminologiske ressurser du ønsker å gjøre tilgjengelig i
 Termportalen? Ta kontakt med oss på
-[termportalen@uib.no](mailto:termportalen@uib.no). Se også [Hvordan
-komme i gang med terminologiarbeid?](/om#kommeiGang)
+::AppLinkText{to="mailto:termportalen@uib.no"}
+termportalen@uib.no
+::
+. Se også
+::AppLinkText{to="/om#kommeiGang"}
+Hvordan komme i gang med terminologiarbeid?
+::
