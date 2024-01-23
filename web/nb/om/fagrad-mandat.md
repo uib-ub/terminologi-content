@@ -1,4 +1,4 @@
-::HeadingTp{level="h3" class="text-lg pt-3"}
+::HeadingTp{level="h3" class="font-semibold text-lg pt-3"}
 Fagrådets mandat
 ::
 
