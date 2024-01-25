@@ -1,6 +1,13 @@
 ## System Behavior Specification
 
-### Lazy Localization
+### Data sources of termportalen.no
+Termportalen has three sources for the displayed content:
+#### Redigeringsapplikasjon/wiki
+##### Terminology Data
+
+Fetched at runtime from the database.
+
+##### Lazy Localization of labels
 
 Some labels in the frontend are lazily localized. They are fetched at
 runtime from the database (based on _redigeringsapplikasjonen_) instead of
@@ -23,7 +30,7 @@ If a termbase is not supposed to have a translated English name, the
 field should be left empty so that the frontend can handle falling
 back to other versions.
 
-### Conceptual domain publishing
+##### Conceptual Domain Data
 
 Conceptual domains are maintained in the _redigeringsapplikasjon_ in a
 separate namespace:
@@ -36,7 +43,38 @@ Only domains that have associated concept data should be set to
 "published". Empty domains can be created, linked, and described, but
 should remain unpublished for the time being.
 
-### Public endpoint publishing
+#### Markdown Content form git.app
+Longer texts (welcome, about etc.) are prerendered from markdown files
+in the repository
+[terminology-content](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/tree/main/web){:target="\_blank"}
+
+This means that the application has to be rebuild for changes to be visible.
+
+See section about nuxt content for more information.
+
+#### Data sources of Administrasjonsappen
+##### Terminology Data
+
+Fetched at runtime from the database.
+
+##### Markdown Content form git.app
+Longer texts (mainly documentation) are prerendered from markdown
+files in the repository
+[terminology-content](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/tree/main/admin){:target="\_blank"}
+
+This means that the application has to be rebuild for changes to be visible.
+
+See section about nuxt content for more information.
+
+##### CMS-based
+Administrative data is fetched from the CMS-endpoint at runtime.
+
+
+#### Localized Labels as Part of Codebase
+JSON-files for the localization of labels are part of the codebase in
+the monorepo.
+
+### Public Endpoint Publishing
 
 Public endpoint to be found here: [sparql.ub.uib.no](https://sparql.ub.uib.no){:target="\_blank"}.
 
