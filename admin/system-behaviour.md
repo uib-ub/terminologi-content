@@ -1,7 +1,6 @@
 ## System Behavior Specification
 
 ### Data sources of termportalen.no
-Termportalen has three sources for the displayed content:
 #### Redigeringsapplikasjon/wiki
 ##### Terminology Data
 
@@ -52,6 +51,10 @@ This means that the application has to be rebuild for changes to be visible.
 
 See section about nuxt content for more information.
 
+#### Localized Labels as Part of Codebase
+JSON-files for the localization of labels are part of the codebase in
+the monorepo.
+
 ### Data sources of Administrasjonsappen
 #### Terminology Data
 
@@ -66,13 +69,12 @@ This means that the application has to be rebuild for changes to be visible.
 
 See section about nuxt content for more information.
 
+#### Unlocalized Labels as Part of Codebase
+Labels are part of the codebase in the monorepo.
+
+
 #### CMS-based
 Administrative data is fetched from the CMS-endpoint at runtime.
-
-
-#### Localized Labels as Part of Codebase
-JSON-files for the localization of labels are part of the codebase in
-the monorepo.
 
 ### Public Endpoint Publishing
 
