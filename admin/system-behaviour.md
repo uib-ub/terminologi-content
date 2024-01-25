@@ -52,12 +52,12 @@ This means that the application has to be rebuild for changes to be visible.
 
 See section about nuxt content for more information.
 
-#### Data sources of Administrasjonsappen
-##### Terminology Data
+### Data sources of Administrasjonsappen
+#### Terminology Data
 
 Fetched at runtime from the database.
 
-##### Markdown Content form git.app
+#### Markdown Content form git.app
 Longer texts (mainly documentation) are prerendered from markdown
 files in the repository
 [terminology-content](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/tree/main/admin){:target="\_blank"}
@@ -66,7 +66,7 @@ This means that the application has to be rebuild for changes to be visible.
 
 See section about nuxt content for more information.
 
-##### CMS-based
+#### CMS-based
 Administrative data is fetched from the CMS-endpoint at runtime.
 
 
