@@ -14,10 +14,10 @@ på andre språk.
 Termportalen er ein del av Språksamlingane ved Universitetet i Bergen,
 og arbeidet med terminologi skjer i samråd med Språkrådet.
 Termportalen er finansiert av Kunnskapsdepartementet og
-Kulturdepartementet.
+Kultur- og Likestillingsdepartementet
 
 Ønskjer du å komme i gong med terminologiarbeid på ditt fagområde
 eller har du terminologiske ressursar du ønskjer å gjere tilgjengelege
 i Termportalen? Ta kontakt med oss på :AppLinkContent{to="mailto:termportalen@uib.no"
 desc="termportalen@uib.no"}. Sjå også :AppLinkContent{to="/om#kommeiGang"
-desc="Korleis kome i gong med terminologiarbeid?"} 
+desc="Korleis komme i gang med terminologiarbeid?"} 
