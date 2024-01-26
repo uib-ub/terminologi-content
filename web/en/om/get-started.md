@@ -13,7 +13,7 @@ terminological competence. We will of course also offer further
 assistance, both on technical and methodological issues as needed.
 
 Please do not hesitate to contact us on :AppLinkContent{to="mailto:termportalen@uib.no"
-desc"termportalen@uib.no"} for more information.
+desc="termportalen@uib.no"} for more information.
 
 If you want to get started on terminology work, it is also helpful to
 get more knowledge of terminological methods. We recommend
