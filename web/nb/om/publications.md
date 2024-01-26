@@ -10,7 +10,7 @@ Relevante publikasjoner
   finansiering. I *Nordterm* 22: *Begreppsarbete och informationshandetering*, 65–76,
   :::
 
-  :::PublicationEntry{to="http://www.nordterm.net/filer/publikationer/rapporter/Nordterm16_Samlede_indlaeg.pdf#page=210" link-desc="Nordterm"}
+  :::PublicationEntry{to="http://www.nordterm.net/filer/publikationer/rapporter/Nordterm16_Samlede_indlaeg.pdf#page=210" desc="Nordterm"}
   Andersen, Gisle og Marita Kristiansen. 2009. Terminor og Termportalen – nye initiativer for norsk terminologisk
   infrastruktur. I *Nordterm* 16: *Ontologier og taksonomier*, 209–222,
   :::
@@ -30,7 +30,7 @@ Relevante publikasjoner
   :::
 
   :::PublicationEntry{to="https://lovdata.no/dokument/LTI/lov/2021-05-21-42"}
-  Lov om språk (språklova)
+  Lov om språk (språklova),
   :::
 
   :::PublicationEntry{to="https://www.regjeringen.no/no/dokumenter/prop.-126-l-20222023/id2984933/"}
@@ -38,11 +38,11 @@ Relevante publikasjoner
   :::
 
   :::PublicationEntry{to="https://www.regjeringen.no/no/dokumenter/prop.-108-l-20192020/id2701451/?ch=1"}
-  Prop. 108 L (2019–2020) Lov om språk (språklova)
+  Prop. 108 L (2019–2020). Lov om språk (språklova),
   :::
 
   :::PublicationEntry{to="https://www.regjeringen.no/contentassets/50816e814a9c46169bd69dc20dd746a3/nn-no/pdfs/stm200720080035000dddpdfs.pdf"}
-  St.meld.nr. 35 (2007-2008). Mål og meining. Ein heilskapleg norsk språkpolitikk,
+  St.meld.nr. 35 (2007–2008). Mål og meining. Ein heilskapleg norsk språkpolitikk,
   :::
 
   :::PublicationEntry{to="https://www.sprakradet.no/upload/9832/norsk_i_hundre.pdf"}
