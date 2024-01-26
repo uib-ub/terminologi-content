@@ -20,25 +20,22 @@ setje seg nærare inn i terminologisk metode. Me anbefaler både
 *Termlosen* og e-læringskurset *Begrip begrepene*. I tillegg
 har me laga ein mal for korleis ein kan jobbe i termgrupper.
 
-- :AppLinkContent{to="https://www.sprakradet.no/Sprakarbeid/Terminologi/nyttig-informasjon/termlosen/"
-                  desc="Termlosen"} gir ei kort innføring i
-                  omgrepsanalyse og korleis ein arbeider med
-                  terminologi. Den gir blant anna råd om organisering
-                  og praktisk gjennomføring av terminologiarbeid,
-                  omgrepsanalyse, korleis ein kan skrive gode
-                  definisjonar og korleis ein kan bygge opp
-                  termlister. *Termlosen* er skriven av Heidi
-                  Suonuuti og gitt ut på norsk av Språkrådet.
-- :AppLinkContent{to="https://laeringsplattformen.difi.no/kurs/971527404/begrip-begrepene-et-innforingskurs-i-terminologi-og-begrepsarbeid"
-                  desc="Begrip begrepene!"} er eit e-læringskurs i
-                  terminologi- og omgrepsarbeid utvikla av Språkrådet
-                  i samarbeid med Digitaliseringsdirektoratet. Kurset
-                  er fritt tilgjengeleg, det tar ca. 45 minutt å
-                  gjennomføre, og det gir ei enkel innføring i
-                  omgrepsanalyse, definisjonsskriving, termdanning og
-                  termvalg.
-- :AppLinkContent{to="https://wiki.terminologi.no/images/2/27/Arbeidsmetode_for_universitets-_og_h%C3%B8yskolesektoren_31082023.pdf"
-                 desc="Arbeidsmetode for terminologiarbeid i universitets- og høgskolesektoren"} gir
-                 eit forslag til korleis ein kan jobbe med terminologi
-                 i termgrupper. Metoden er spesielt retta mot
-                 universitets- og høgskolesektoren.
+:AppLinkContent{to="https://www.sprakradet.no/Sprakarbeid/Terminologi/nyttig-informasjon/termlosen/"
+desc="Termlosen"} gir ei kort innføring i omgrepsanalyse og korleis
+ein arbeider med terminologi. Den gir blant anna råd om organisering
+og praktisk gjennomføring av terminologiarbeid, omgrepsanalyse,
+korleis ein kan skrive gode definisjonar og korleis ein kan bygge opp
+termlister. *Termlosen* er skriven av Heidi Suonuuti og gitt ut på
+norsk av Språkrådet.
+
+:AppLinkContent{to="https://laeringsplattformen.difi.no/kurs/971527404/begrip-begrepene-et-innforingskurs-i-terminologi-og-begrepsarbeid"
+desc="Begrip begrepene!"} er eit e-læringskurs i terminologi- og
+omgrepsarbeid utvikla av Språkrådet i samarbeid med
+Digitaliseringsdirektoratet. Kurset er fritt tilgjengeleg, det tar ca.
+45 minutt å gjennomføre, og det gir ei enkel innføring i
+omgrepsanalyse, definisjonsskriving, termdanning og termvalg.
+
+:AppLinkContent{to="https://wiki.terminologi.no/images/2/27/Arbeidsmetode_for_universitets-_og_h%C3%B8yskolesektoren_31082023.pdf"
+desc="Arbeidsmetode for terminologiarbeid i universitets- og høgskolesektoren"} gir eit forslag til korleis ein kan jobbe med
+terminologi i termgrupper. Metoden er spesielt retta mot universitets-
+og høgskolesektoren.
