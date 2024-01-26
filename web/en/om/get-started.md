@@ -38,7 +38,7 @@ well as our methodology on how to work in term groups:
                   gives a basic introduction to concept analysis, how
                   to write terminological definitions, and how to
                   choose or coin terms [only available in Norwegian].
-- AppLinkContent{to="https://wiki.terminologi.no/images/2/27/Arbeidsmetode_for_universitets-_og_h%C3%B8yskolesektoren_31082023.pdf"
+- :AppLinkContent{to="https://wiki.terminologi.no/images/2/27/Arbeidsmetode_for_universitets-_og_h%C3%B8yskolesektoren_31082023.pdf"
                  desc="Arbeidsmetode for terminologiarbeid i universitets- og høgskolesektoren"} presents
                  a methodology on how to work with terminology in term
                  groups. It is particularly aimed at term groups in
