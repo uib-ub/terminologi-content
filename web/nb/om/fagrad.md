@@ -5,7 +5,6 @@ strategiske råd i tråd med et eget mandat.
 
 Det sittende fagrådet består av følgende personer:
 
-::BulletPointList
 - Ole Våge, Helsedirektoratet, **leder**
 - Elida Slettum, Norsk studentorganisasjon
 - Geir Vikan, styremedlem, Statsautoriserte Translatørers Forening
@@ -15,6 +14,5 @@ Det sittende fagrådet består av følgende personer:
 - Ragnhild Tungesvik, Direktoratet for høyere utdanning og kompetanse
 - Siv Saure, Utenriksdepartementet
 - Kjetil Gundersen, Språkrådet, **sekretær**
-::
 
 Medlemmene i fagrådet blir utnevnt for en periode på tre år.

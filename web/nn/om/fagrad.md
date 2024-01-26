@@ -4,8 +4,6 @@ nasjonalt fagråd for Termportalen. Fagrådet skal gje faglege og
 strategiske råd i tråd med eit eige mandat.
 
 Det sitjande fagrådet består av følgjande personar:
-
-::BulletPointList
 - Ole Våge, Helsedirektoratet, **leiar**
 - Elida Slettum, Norsk studentorganisasjon
 - Geir Vikan, styremedlem, Statsautoriserte Translatørers Forening
@@ -15,6 +13,5 @@ Det sitjande fagrådet består av følgjande personar:
 - Ragnhild Tungesvik, Direktoratet for høgare utdanning og kompetanse
 - Siv Saure, Utanriksdepartementet
 - Kjetil Gundersen, Språkrådet, **sekretær**
-::
 
 Medlemmane i fagrådet blir utnemnde for ein periode på tre år.
