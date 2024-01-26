@@ -1,7 +1,6 @@
 If you want to get started with terminology work, it is also helpful
 to get more knowledge of terminological methods:
 
-::BulletPointList
 - AppLinkContent{to="http://www.nordterm.net/filer/publikationer/guider/Guide_to_Terminology.pdf"
                  desc="Guide to terminology"} gives a short
                  introduction to concept analysis and how to work on
@@ -20,12 +19,10 @@ to get more knowledge of terminological methods:
                  gives a basic introduction to concept analysis, how
                  to write terminological definitions, and how to
                  choose or coin terms [only available in Norwegian].
-::
 
 If you need to control grammar and/or English words and expressions,
 we recommend these sites:
 
-::BulletPointList
 - AppLinkContent{to="https://ordbokene.no/" desc="Ordbøkene.no"}:
                  *Bokmålsordboka* and *Nynorskordboka*
                  present orthography and inflections according to the
@@ -36,7 +33,6 @@ we recommend these sites:
                  desc="Oxford Learner’s Dictionaries"}: General
                  language dictionaries for British, American and
                  academic language and more.
-::
 
 Advice on spelling, practical grammar and advice on writing is also
 found on the Language Council of Norway’s webpage :AppLinkContent{
