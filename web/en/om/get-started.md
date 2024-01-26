@@ -20,7 +20,6 @@ get more knowledge of terminological methods. We recommend
 *Termlosen* and the online course *Begrip begrepene*, as
 well as our methodology on how to work in term groups:
 
-::BulletPointList
 - :AppLinkContent{to="http://www.nordterm.net/filer/publikationer/guider/Guide_to_Terminology.pdf"
                   desc="Guide to terminology"} gives a short
                   introduction to concept analysis and how to work on
@@ -40,11 +39,8 @@ well as our methodology on how to work in term groups:
                   to write terminological definitions, and how to
                   choose or coin terms [only available in Norwegian].
 - AppLinkContent{to="https://wiki.terminologi.no/images/2/27/Arbeidsmetode_for_universitets-_og_h%C3%B8yskolesektoren_31082023.pdf"
-                 desc="Arbeidsmetode for terminologiarbeid i
-                 universitets- og høgskolesektoren" </AppLinkText>
-                 presents a methodology on how to work with
-                 terminology in term groups. It is particularly aimed
-                 at term groups in higher education, but it may be
-                 used for other domains as well [will soon be
-                 available in English].
-::
+                 desc="Arbeidsmetode for terminologiarbeid i universitets- og høgskolesektoren"} presents
+                 a methodology on how to work with terminology in term
+                 groups. It is particularly aimed at term groups in
+                 higher education, but it may be used for other
+                 domains as well [will soon be available in English].

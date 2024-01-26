@@ -20,7 +20,6 @@ setje seg nærare inn i terminologisk metode. Me anbefaler både
 *Termlosen* og e-læringskurset *Begrip begrepene*. I tillegg
 har me laga ein mal for korleis ein kan jobbe i termgrupper.
 
-::BulletPointList
 - :AppLinkContent{to="https://www.sprakradet.no/Sprakarbeid/Terminologi/nyttig-informasjon/termlosen/"
                   desc="Termlosen"} gir ei kort innføring i
                   omgrepsanalyse og korleis ein arbeider med
@@ -44,5 +43,3 @@ har me laga ein mal for korleis ein kan jobbe i termgrupper.
                  til korleis ein kan jobbe med terminologi i
                  termgrupper. Metoden er spesielt retta mot
                  universitets- og høgskolesektoren.
-::
-                    
