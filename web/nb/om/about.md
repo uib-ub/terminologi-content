@@ -1,4 +1,4 @@
-::HeadingTp{level="h1" id="main"}
+::HeadingTp{level="h1" headigId="main"}
 Om Termportalen
 ::
 
