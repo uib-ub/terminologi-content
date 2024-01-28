@@ -1,7 +1,7 @@
 Om du ønskjer å kome i gang med terminologiarbeid, er det òg nyttig å
 setje seg nærare inn i terminologisk metode:
 
-::BlockIndent
+::PlainList
 - :AppLinkContent{to="https://www.sprakradet.no/Sprakarbeid/Terminologi/nyttig-informasjon/termlosen/"
                  desc="Termlosen"} gir ei kort innføring i
                  omgrepsanalyse og korleis ein arbeider med
@@ -24,7 +24,7 @@ setje seg nærare inn i terminologisk metode:
 Om du treng å sjekke grammatikk og/eller engelske ord og uttrykk,
 anbefaler vi desse sidene:
 
-::Blockindent
+::PlainList
 - :AppLinkContent{to="https://ordbokene.no/" desc="Ordbøkene.no"}:
                  *Bokmålsordboka* og *Nynorskordboka* viser skrivemåte
                  og bøying i tråd med norsk rettskriving. Språkrådet

@@ -1,7 +1,7 @@
 If you want to get started with terminology work, it is also helpful
 to get more knowledge of terminological methods:
 
-::BlockIndent
+::PlainList
 - :AppLinkContent{to="http://www.nordterm.net/filer/publikationer/guider/Guide_to_Terminology.pdf"
                  desc="Guide to terminology"} gives a short
                  introduction to concept analysis and how to work on
@@ -25,7 +25,7 @@ to get more knowledge of terminological methods:
 If you need to control grammar and/or English words and expressions,
 we recommend these sites:
 
-::BlockIndent
+::PlainList
 - :AppLinkContent{to="https://ordbokene.no/" desc="Ordbøkene.no"}:
                  *Bokmålsordboka* and *Nynorskordboka*
                  present orthography and inflections according to the
