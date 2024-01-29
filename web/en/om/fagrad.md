@@ -14,4 +14,4 @@ Termportalen’s advisory board members are:
 - Siv Saure, Ministry of Foreign Affairs
 - Kjetil Gundersen, The Language Council of Norway, **board secretary**
 
-The members of the advisory board are appointed for a period of three years.
+The members of the advisory board are appointed for a period of two years.

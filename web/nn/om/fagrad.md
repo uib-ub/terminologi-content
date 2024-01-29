@@ -14,4 +14,4 @@ Det sitjande fagrådet består av følgjande personar:
 - Siv Saure, Utanriksdepartementet
 - Kjetil Gundersen, Språkrådet, **sekretær**
 
-Medlemmane i fagrådet blir utnemnde for ein periode på tre år.
+Medlemmane i fagrådet blir utnemnde for ein periode på to år.
