@@ -96,14 +96,31 @@ vue components in markdown pages
 Inline component for proper typesetting and handling of links (mainly for termportalen.no)
 
 Required properties:
-`to`: URL that the hyperlink points to
-`desc`: Description of the link
+- ``to``: URL that the hyperlink points to
+- ``desc``: Description of the link
 
 Use example:
-```
-:AppLinkContent{to="termportalen.no" desc="Termportalen hjemmeside"}
+::BlockQuote
 ```
 
+:AppLinkContent{to="termportalen.no" desc="Termportalen hjemmeside"}
+
+```
+::
+
+##### BlockQuote
+Block component for block quotes
+
+Use example:
+::BlockQuote
+```
+
+::BlockQuote
+Content
+::
+
+```
+::
 ### Public Endpoint Publishing
 
 Public endpoint to be found here: [sparql.ub.uib.no](https://sparql.ub.uib.no){:target="\_blank"}.
