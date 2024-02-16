@@ -135,7 +135,7 @@ Use example:
 ```
 
 ::HeadingTp{level="h2" headingId="customId" headingClass="text-3xl font-semibold"}
-
+Heading text
 ::
 
 ```
