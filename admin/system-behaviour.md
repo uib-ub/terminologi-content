@@ -95,9 +95,9 @@ vue components in markdown pages
 ##### AppLinkContent
 Inline component for proper typesetting and handling of links (mainly for termportalen.no)
 
-Required properties:
-- ``to``: URL that the hyperlink points to
-- ``desc``: Description of the link
+Properties:
+- ``to`` (required): URL that the hyperlink points to
+- ``desc``(required): Description of the link
 
 Use example:
 ::BlockQuote
@@ -121,6 +121,41 @@ Content
 
 ```
 ::
+
+##### HeadingTp
+Block component for advanced formatting of headings
+
+Properties:
+- ``level`` (required): heading level. options: ``h1``, ``h2``, ``h3``, ``h4``, ``h5``, ``h6``
+- ``headingId``: Custom ID for heading element
+- ``headingClass``: classes for heading element
+
+Use example:
+::BlockQuote
+```
+
+::HeadingTp{level="h2" headingId="customId" headingClass="text-3xl font-semibold"}
+
+::
+
+```
+::
+
+##### PlainList
+Block component for lists without bullet points or numbers.
+
+Use example:
+::BlockQuote
+```
+
+::PlainList
+- Entry 1
+- Entry 2
+::
+
+```
+::
+
 ### Public Endpoint Publishing
 
 Public endpoint to be found here: [sparql.ub.uib.no](https://sparql.ub.uib.no){:target="\_blank"}.
