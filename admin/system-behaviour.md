@@ -60,7 +60,7 @@ the monorepo.
 
 Fetched at runtime from the database.
 
-#### Markdown Content form git.app
+#### Markdown Content from git.app
 Longer texts (mainly documentation) are prerendered from markdown
 files in the repository
 [terminology-content](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/tree/main/admin){:target="\_blank"}
@@ -75,6 +75,34 @@ Labels are part of the codebase in the monorepo.
 
 #### CMS-based
 Administrative data is fetched from the CMS-endpoint at runtime.
+
+### Nuxt content and markdown
+termportalen.no and the admin app use the nuxt module
+[nuxt-content](https://content.nuxt.com/) to handle longer text
+content in the markdown format.
+
+Markdown is a lightweight markup language to write plain text
+documents that can be converted to html easily.
+
+#### Markdown
+Information on the basic markdown syntax can be found on a [markdown
+guide page](https://www.markdownguide.org/cheat-sheet/).
+
+#### Special Markup and Available Components
+In addition markdown functionality, nuxt-content allows for the use of
+vue components in markdown pages
+
+##### AppLinkContent
+Inline component for proper typesetting and handling of links (mainly for termportalen.no)
+
+Required properties:
+`to`: URL that the hyperlink points to
+`desc`: Description of the link
+
+Use example:
+```
+:AppLinkContent{to="termportalen.no" desc="Termportalen hjemmeside"}
+```
 
 ### Public Endpoint Publishing
 
