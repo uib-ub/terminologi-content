@@ -2,11 +2,11 @@
 
 ### Data sources of termportalen.no
 #### Redigeringsapplikasjon/wiki
-##### Terminology Data
+**Terminology Data**
 
 Fetched at runtime from the database.
 
-##### Lazy Localization of labels
+**Lazy Localization of labels**
 
 Some labels in the frontend are lazily localized. They are fetched at
 runtime from the database (based on _redigeringsapplikasjonen_) instead of
@@ -29,7 +29,7 @@ If a termbase is not supposed to have a translated English name, the
 field should be left empty so that the frontend can handle falling
 back to other versions.
 
-##### Conceptual Domain Data
+**Conceptual Domain Data**
 
 Conceptual domains are maintained in the _redigeringsapplikasjon_ in a
 separate namespace:
@@ -88,11 +88,11 @@ documents that can be converted to html easily.
 Information on the basic markdown syntax can be found on a [markdown
 guide page](https://www.markdownguide.org/cheat-sheet/).
 
-#### Special Markup and Available Components
+**Special Markup and Available Components**
 In addition markdown functionality, nuxt-content allows for the use of
 vue components in markdown pages
 
-##### AppLinkContent
+#### AppLinkContent
 Inline component for proper typesetting and handling of links (mainly for termportalen.no)
 
 Properties:
@@ -102,27 +102,23 @@ Properties:
 Use example:
 ::BlockQuote
 ```
-
 :AppLinkContent{to="termportalen.no" desc="Termportalen hjemmeside"}
-
 ```
 ::
 
-##### BlockQuote
+#### BlockQuote
 Block component for block quotes
 
 Use example:
 ::BlockQuote
 ```
-
 ::BlockQuote
 Content
 ::
-
 ```
 ::
 
-##### HeadingTp
+#### HeadingTp
 Block component for advanced formatting of headings
 
 Properties:
@@ -133,26 +129,22 @@ Properties:
 Use example:
 ::BlockQuote
 ```
-
 ::HeadingTp{level="h2" headingId="customId" headingClass="text-3xl font-semibold"}
 Heading text
 ::
-
 ```
 ::
 
-##### PlainList
+#### PlainList
 Block component for lists without bullet points or numbers.
 
 Use example:
 ::BlockQuote
 ```
-
 ::PlainList
 - Entry 1
 - Entry 2
 ::
-
 ```
 ::
 
@@ -170,3 +162,23 @@ See
 for more technical information and the [pipeline
 config](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-meta/-/pipeline_schedules){:target="\_blank"}
 for current settings.
+
+### Backup
+Different kinds of data are stored on the backupped (by IT) drive `/data/` on `termwiki_prod`
+
+#### Mediawiki mariadb
+- `data/backup/mariadb/wiki`
+- Contains mariadb database dumps
+- One dump created per day
+- Only one dump per month is retained for months that are not recent
+
+#### Mediawiki images
+- `data/backup/images`
+- Mediawiki images folder is `rsynced` to backupped folder
+- Folder contains also contains deleted, derived etc. files
+
+#### Fuseki snapshots
+- `data/backup/fuseki`
+- contains monthly fuseki prod snapshots to be able to revist historical data
+- cronjob for snapshot on the fuseki runs on the 8th of each month
+- moving snapshot to backup dir is currently a manual process
