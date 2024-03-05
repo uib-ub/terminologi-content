@@ -51,6 +51,16 @@ This means that the application has to be rebuild for changes to be visible.
 
 See section about nuxt content for more information.
 
+#### News entries from Administrasjonsappen
+The news entries are retrieved from the Sanity Studio API at runtime. In order for a news entry to be displayed, it must meet the following conditions:
+- It is set to `published` in the Studio.
+- It has a date assigned.
+- The date is in the past.
+
+Only the three most recent entries that meet these conditions will be shown on the termportalen-front page.
+
+If languages are not specified when the news entry is created in the Studio, a fallback mechanism will be implemented when the entry is displayed on the front page. The order follows the same sequence as for lazy localization.
+
 #### Localized Labels as Part of Codebase
 JSON-files for the localization of labels are part of the codebase in
 the monorepo.
