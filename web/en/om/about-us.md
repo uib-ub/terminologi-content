@@ -5,6 +5,6 @@
 - :AppLinkContent{desc="Hilde Johansen, Terminologist" to="https://www.uib.no/en/persons/Hilde.Johansen"}
 - :AppLinkContent{desc="Tove Bjørneset, Terminologist" to="https://www.uib.no/en/persons/Tove.Bj%C3%B8rneset"}
 - :AppLinkContent{desc="Sol-Mari Hesjedal Langhelle, Higher Executive Officer" to="https://www.uib.no/en/persons/Sol-Mari.Hesjedal.Langhelle"}
-- :AppLinkContent{desc="Andreas Mikalsen Kollstrøm, Coordinator" to="https://www.uib.no/en/persons/Andreas.Mikalsen.Kollstrøm"}
+- :AppLinkContent{desc="Andreas Mikalsen Kollstrøm, Coordinator" to="https://www.uib.no/en/persons/Andreas.Mikalsen.Kollstr%C3%B8m"}
 
 ::
