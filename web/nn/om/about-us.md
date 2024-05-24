@@ -5,4 +5,5 @@
 - :AppLinkContent{desc="Hilde Johansen, terminolog" to="https://www.uib.no/personer/Hilde.Johansen"}
 - :AppLinkContent{desc="Tove Bjørneset, terminolog" to="https://www.uib.no/personer/Tove.Bj%C3%B8rneset"}
 - :AppLinkContent{desc="Sol-Mari Hesjedal Langhelle, førstekonsulent" to="https://www.uib.no/personer/Sol-Mari.Hesjedal.Langhelle"}
+- :AppLinkContent{desc="Andreas Mikalsen Kollstrøm, koordinator" to="https://www.uib.no/personer/Andreas.Mikalsen.Kollstr%C3%B8m"}
 ::
