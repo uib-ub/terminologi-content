@@ -190,5 +190,5 @@ Different kinds of data are stored on the backupped (by IT) drive `/data/` on `t
 #### Fuseki snapshots
 - `data/backup/fuseki`
 - contains monthly fuseki prod snapshots to be able to revist historical data
-- cronjob for snapshot on the fuseki runs on the 8th of each month
-- moving snapshot to backup dir is currently a manual process
+- cronjob for snapshot on the fuseki runs on the 1st of each month
+- cronjob rsyncs snapshot to backup folder
