@@ -5,5 +5,4 @@
 - :AppLinkContent{desc="Daniel Hammerstad Johannessen, System Developer" to="https://www.uib.no/en/persons/Daniel.Hammerstad.Johannessen"}
 - :AppLinkContent{desc="Hilde Johansen, Terminologist" to="https://www.uib.no/en/persons/Hilde.Johansen"}
 - :AppLinkContent{desc="Tove Bjørneset, Terminologist" to="https://www.uib.no/en/persons/Tove.Bj%C3%B8rneset"}
-- :AppLinkContent{desc="Sol-Mari Hesjedal Langhelle, Higher Executive Officer" to="https://www.uib.no/en/persons/Sol-Mari.Hesjedal.Langhelle"}
 ::
