@@ -14,7 +14,7 @@ på andre språk.
 Termportalen er ein del av Språksamlingane ved Universitetet i Bergen,
 og arbeidet med terminologi skjer i samråd med Språkrådet.
 Termportalen er finansiert av Kunnskapsdepartementet og
-Kultur- og Likestillingsdepartementet
+Kultur- og likestillingsdepartementet
 
 Ønskjer du å komme i gong med terminologiarbeid på ditt fagområde
 eller har du terminologiske ressursar du ønskjer å gjere tilgjengelege
