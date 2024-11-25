@@ -6,7 +6,7 @@ strategiske råd i tråd med eit eige mandat.
 Det sitjande fagrådet består av følgjande personar:
 - Ole Våge, Helsedirektoratet, **leiar**
 - Pernille Cecilie Eikeland, Norsk studentorganisasjon
-- Thomas Helland-Hansen, Norsk studentorganisasjon (vara)
+- Thomas Helland-Hansen, Norsk studentorganisasjon (varamedlem)
 - Geir Vikan, styremedlem, Statsautoriserte Translatørers Forening
 - Gisle Andersen, Norges Handelshøyskole
 - Ivo Spira, Standard Norge
