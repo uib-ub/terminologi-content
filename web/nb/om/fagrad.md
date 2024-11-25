@@ -7,7 +7,7 @@ Det sittende fagrådet består av følgende personer:
 
 - Ole Våge, Helsedirektoratet, **leder**
 - Pernille Cecilie Eikeland, Norsk studentorganisasjon
-- Thomas Helland-Hansen, Norsk studentorganisasjon (vara)
+- Thomas Helland-Hansen, Norsk studentorganisasjon (varamedlem)
 - Geir Vikan, styremedlem, Statsautoriserte Translatørers Forening
 - Gisle Andersen, Norges Handelshøyskole
 - Ivo Spira, Standard Norge
