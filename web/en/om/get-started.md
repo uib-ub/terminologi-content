@@ -42,4 +42,11 @@ desc="Arbeidsmetode for terminologiarbeid i universitets- og høgskolesektoren"}
 terminology in term groups. It is particularly aimed at term groups in
 higher education, but it may be used for other domains as well [will
 soon be available in English].
+
+International standards:
+-	ISO/TC 37:2020 *Language and terminology*: Terminology and other language and content resources 
+-	ISO 1087:2019 *Terminology work and terminology science - Vocabulary*: International standard which establishes basic terms and definitions for terminology work and terminology science.  
+-	ISO 704:2022 *Terminology work - Principles and methods*: International standard that establishes basic principles and methods for terminology work. 
+-	ISO 860:2007 *Terminology work - Harmonization of concepts and terms*: International standard for concept harmonization.
+
 ::
