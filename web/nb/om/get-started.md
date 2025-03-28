@@ -42,3 +42,10 @@ høyskolesektoren"} gir et forslag til hvordan en kan jobbe med
 terminologi i termgrupper. Metoden er spesielt rettet mot
 universitets- og høyskolesektoren.
 ::
+
+Internasjonale standarder:
+- ISO/TC 37:2020 *Language and terminology*: Terminologi og andre språk- og innholdsressurser.
+- NS-ISO 1087:2019 *Terminologiarbeid og terminologivitenskap – Ordliste*: Internasjonal standard som definerer sentrale begreper i terminologi- og begrepsarbeid.
+- NS-ISO 704:2022 *Terminologiarbeid – Prinsipp og metodar*: Internasjonal standard som fastsetter de grunnleggende prinsippene og metodene for utarbeiding og sammenstilling av terminologier.
+- ISO 860:2007 *Terminology work – Harmonization of concepts and terms*: Internasjonal standard for begrepsharmonisering.
+
