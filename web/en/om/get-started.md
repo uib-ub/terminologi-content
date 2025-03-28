@@ -20,7 +20,7 @@ get more knowledge of terminological methods. We recommend
 *Termlosen* and the online course *Begrip begrepene*, as
 well as our methodology on how to work in term groups:
 
-::PlainList
+::PlainList{indent=true}
 - :AppLinkContent{to="http://www.nordterm.net/filer/publikationer/guider/Guide_to_Terminology.pdf"
 desc="Guide to terminology"} gives a short introduction to concept
 analysis and how to work on terminology. It gives among other things

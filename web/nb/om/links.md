@@ -1,7 +1,7 @@
 Ønsker du å komme i gang med terminologiarbeid, kan det være nyttig å
 sette seg nærmere inn i terminologisk metode.
 
-::PlainList
+::PlainList{indent=true}
 - :AppLinkContent{to="https://www.sprakradet.no/Sprakarbeid/Terminologi/nyttig-informasjon/termlosen/"
                   desc="Termlosen"} gir en kort innføring i
                   begrepsanalyse og hvordan arbeide med terminologi.
@@ -24,7 +24,7 @@ sette seg nærmere inn i terminologisk metode.
 Trenger du å sjekke grammatikk og/eller engelske ord og uttrykk,
 anbefaler vi følgende sider:
 
-::PlainList
+::PlainList{indent=true}
 - :AppLinkContent{to="https://ordbokene.no/" desc="Ordbøkene.no"}: <i>Bokmålsordboka</i> og <i>Nynorskordboka</i> viser
                   skrivemåte og bøyning i tråd med norsk rettskriving.
                   Språkrådet og Universitetet i Bergen står bak
