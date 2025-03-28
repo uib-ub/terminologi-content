@@ -7,5 +7,5 @@
 - :AppLinkContent{desc="Lise Samdal, Terminologist" to="https://www4.uib.no/en/find-employees/Lise.Samdal"}
 - :AppLinkContent{desc="Kamilla Vattekar, Terminologist" to="https://www4.uib.no/en/find-employees/Kamilla.Vattekar"}
 - :AppLinkContent{desc="Janique Mano Knutsen, Terminologist" to="https://www4.uib.no/en/find-employees/Janique.Mano.Knudsen"}
-- :AppLinkContent{desc="Sol-Mari Hesjedal Langhelle, Senior Executive Officer (temporary)"}
+- Sol-Mari Hesjedal Langhelle, Senior Executive Officer (temporary)
 ::
