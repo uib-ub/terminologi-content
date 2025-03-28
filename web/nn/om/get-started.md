@@ -40,11 +40,11 @@ omgrepsanalyse, definisjonsskriving, termdanning og termvalg.
 desc="Arbeidsmetode for terminologiarbeid i universitets- og høgskolesektoren"} gir eit forslag til korleis ein kan jobbe med
 terminologi i termgrupper. Metoden er spesielt retta mot universitets-
 og høgskolesektoren.
+::
 
 Internasjonale standardar:
--	ISO/TC 37:2020 *Language and terminology*: Terminologi og andre språk- og innhaldsressursar 
--	NS-ISO 1087:2019 *Terminologiarbeid og terminologivitenskap – Ordliste*: Internasjonal standard som definerer sentrale omgrep i terminologi- og omgrepsarbeid. 
--	NS-ISO 704:2022 *Terminologiarbeid – Prinsipp og metodar*: Internasjonal standard som fastset dei grunnleggjande prinsippa og metodane for førebuing og utarbeiding av terminologiar.
--	ISO 860:2007 *Terminology work – Harmonization of concepts and terms*: Internasjonal standard for omgrepsharmonisering.
+- ISO/TC 37:2020 *Language and terminology*: Terminologi og andre språk- og innhaldsressursar.
+- NS-ISO 1087:2019 *Terminologiarbeid og terminologivitenskap – Ordliste*: Internasjonal standard som definerer sentrale omgrep i terminologi- og omgrepsarbeid.
+- NS-ISO 704:2022 *Terminologiarbeid – Prinsipp og metodar*: Internasjonal standard som fastset dei grunnleggjande prinsippa og metodane for førebuing og utarbeiding av terminologiar.
+- ISO 860:2007 *Terminology work – Harmonization of concepts and terms*: Internasjonal standard for omgrepsharmonisering.
 
-::
