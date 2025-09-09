@@ -17,7 +17,5 @@ Den terminologiske metoden er forskjellig fra den leksikografiske
 metoden, som brukes i allmennspråklige ordbøker. Her tar man
 utgangspunkt i ordene for så å beskrive meningsinnholdet.
 
-Hvis du vil vite mer om terminologisk teori og metode, kan
-:AppLinkContent{desc="Termlosen"
-to="https://sprakradet.no/fagsprak-terminologi-og-begrepsarbeid/oppslagsverk/termlosen"}
-være en nyttig ressurs.
+Hvis du vil vite mer om terminologisk teori og metode, kan :AppLinkContent{desc="Termlosen"
+to="https://sprakradet.no/fagsprak-terminologi-og-begrepsarbeid/oppslagsverk/termlosen"} være en nyttig ressurs.
