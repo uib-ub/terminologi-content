@@ -1,7 +1,3 @@
-::HeadingTp{level="h1" headingId="main"}
-Hjelp
-::
-
 Termportalen inneholder terminologiske data, som er utarbeidet etter
 en begrepsbasert metode. Det vil si at man tar utgangspunkt i
 meningsinnholdet i et :ToolTip{label="begrep" title="begrep"
