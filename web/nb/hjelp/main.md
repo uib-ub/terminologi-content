@@ -8,10 +8,6 @@ De terminologiske dataene presenteres i :ToolTip{label="termposter"
 title="termpost" content-id="termpost"}. Termpostene er organisert i
 egne termbaser og er samtidig tilknyttet et bestemt
 :ToolTip{label="domene" title="domene" content-id="domain"}.
-Domenestrukturen i Termportalen er basert på
-:AppLinkContent{desc="Universitets- og høgskolerådets fagstrategiske
-enheter"
-to="https://www.uhr.no/strategiske-enheter/fagstrategiske-enheter/"}.
 
 Den terminologiske metoden er forskjellig fra den leksikografiske
 metoden, som brukes i allmennspråklige ordbøker. Her tar man
