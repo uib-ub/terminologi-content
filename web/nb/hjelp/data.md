@@ -16,9 +16,5 @@ Sitering
 
 Hvis du vil bruke en termpost som kilde, er det generelle rådet at du lenker til selve termposten og refererer til termbasen den tilhører. Vi anbefaler også å oppgi lesedato, da termpostene kan bli endret. Formatet avhenger av referansestilen du bruker. Eksempelet nedenfor er i Harvard-stil og følger formatet for artikler i elektroniske leksikon uten forfatter.
 
-::PublicationList
-  :::PublicationEntry{}
-  Geomagnetisk polkalott (2023) i *Romfysikk (Termportalen)*. Tilgjengelig fra: :AppLinkContent{desc="https://www.termportalen.no/tb/ROMFYS/Geomagnetisk_polkalott" to="https://www.termportalen.no/tb/ROMFYS/Geomagnetisk_polkalott"} (Hentet: 11. juli 2025).
-  :::
+Geomagnetisk polkalott (2023) i *Romfysikk (Termportalen)*. Tilgjengelig fra: :AppLinkContent{desc="https://www.termportalen.no/tb/ROMFYS/Geomagnetisk_polkalott" to="https://www.termportalen.no/tb/ROMFYS/Geomagnetisk_polkalott"} (Hentet: 11. juli 2025).
 
-::
