@@ -17,9 +17,10 @@ best eigna til å beskrive omgrepet innanfor det aktuelle fagområdet.
 Ein :ToolTip{label="tillaten term" title="tillaten term"
 content-id="altLabel"} er eit synonym som òg er akseptabelt å bruke,
 medan ein :ToolTip{label="frårådd term" title="frårådd term"
-content-id="hiddenLabel"} blir rekna som ueigna. Ein forelda term er
-ikkje lenger i vanleg bruk, men kan til dømes finnast i historisk
-materiale.
+content-id="hiddenLabel"} blir rekna som ueigna. Ein
+:ToolTip{label="forelda term" title="forelda term"
+content-id="obsoleteTerm"} er ikkje lenger i vanleg bruk, men kan til
+dømes finnast i historisk materiale.
 
 :ToolTip{label="Definisjonen" title="definisjon"
 content-id="definition"} beskriv meiningsinnhaldet til omgrepet, slik
@@ -30,9 +31,7 @@ content-id="note"} til definisjonen. Tekstutdrag som illustrerer
 korleis termen blir brukt, står som :ToolTip{label="kontekst"
 title="kontekst" content-id="kontext"}.
 
-Termposten kan òg innehalde informasjon om
-:ToolTip{label="relasjonane" title="relasjon" content-id="relation"}
-mellom omgrep i termbasen. Relasjonar kan vere hierarkiske, i form av
+Termposten kan òg innehalde informasjon om :ToolTip{label="relasjonane" title="relasjon" content-id="relation"} mellom omgrep i termbasen. Relasjonar kan vere hierarkiske, i form av
 enten :ToolTip{label="generiske omgrepsrelasjonar" title="generisk
 omgrepsrelasjonar" content-id="genericRelation"} eller
 :ToolTip{label="partitive omgrepsrelasjonar" title="partitiv

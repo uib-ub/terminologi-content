@@ -1,8 +1,5 @@
-To search for terms within a specific subject area, select a
-:ToolTip{label="domain" title="domain" content-id="domain" } from the
-search menu. You can also limit your search to specific
-:ToolTip{label="subdomains" title="subdomain" content-id="subdomain"}
-in the search menu.
+To search for terms within a specific subject area, select a :ToolTip{label="domain" title="domain" content-id="domain" } from the
+search menu. You can also limit your search to specific :ToolTip{label="subdomains" title="subdomain" content-id="subdomain"} in the search menu.
 
 To search in a specific :ToolTip{label="termbase" title="termbase"
 content-id="termbase"}, toggle from domain search to termbase search
