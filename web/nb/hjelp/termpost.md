@@ -31,9 +31,7 @@ title="merknad" content-id="note"} til definisjonen. Tekstutdrag som
 illustrerer bruken av termen, står som :ToolTip{label="kontekst"
 title="kontekst" content-id="kontext"}.
 
-Termposten kan også inneholde informasjon om
-:ToolTip{label="relasjonene" title="relasjon" content-id="relation"}
-mellom begrep i termbasen. Relasjoner kan være hierarkiske, i form av
+Termposten kan også inneholde informasjon om :ToolTip{label="relasjonene" title="relasjon" content-id="relation"} mellom begrep i termbasen. Relasjoner kan være hierarkiske, i form av
 enten :ToolTip{label="generiske begrepsrelasjoner" title="generisk
 begrepsrelasjon" content-id="genericRelation"} eller
 :ToolTip{label="partitive begrepsrelasjoner" title="partitiv
