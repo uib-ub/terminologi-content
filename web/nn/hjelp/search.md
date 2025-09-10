@@ -1,4 +1,4 @@
-oDersom du vil søke på termar innanfor eit bestemt fagområde, kan du
+Dersom du vil søke på termar innanfor eit bestemt fagområde, kan du
 velje eit :ToolTip{label="domene" title="domene" content-id="domain" }
 og eventuelt avgrense søket til bestemte :ToolTip{label="underdomener"
 title="underdomene" content-id="subdomain"} i søkemenyen.
