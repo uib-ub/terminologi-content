@@ -31,7 +31,7 @@ Søketreffene sorteres automatisk etter graden av likhet med
 søkestrengen. Termer som samsvarer nøyaktig med søkestrengen, står
 øverst i trefflisten. Deretter kommer treff der søkestrengen er del av
 en :ToolTip{label="flerordsterm" title="flerordsterm"
-concent-id="multiWordTerm"} eller en :ToolTip{label="sammensatt term"
+content-id="multiWordTerm"} eller en :ToolTip{label="sammensatt term"
 title="sammensatt term" content-id="complexTerm"}.
 
 Du kan filtrere treffene etter språk, domene eller termbase,
