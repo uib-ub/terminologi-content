@@ -20,4 +20,4 @@ The format depends on the citation style you are using. In the example
 below, the terminological entry is referenced using the Harvard style
 format for online encyclopaedias and dictionaries with no authors.
 
-Geomagnetic polar cap (2023) in Romfysikk (Termportalen). Available at: :AppLinkContent{desc="https://www.termportalen.no/tb/ROMFYS/Geomagnetisk_polkalott" to="https://www.termportalen.no/tb/ROMFYS/Geomagnetisk_polkalott"} (Accessed 11 July 2025).
+Geomagnetic polar cap (2023) in *Romfysikk (Termportalen)*. Available at: :AppLinkContent{desc="https://www.termportalen.no/tb/ROMFYS/Geomagnetisk_polkalott" to="https://www.termportalen.no/tb/ROMFYS/Geomagnetisk_polkalott"} (Accessed 11 July 2025).
