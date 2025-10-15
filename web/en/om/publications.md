@@ -27,6 +27,10 @@ Relevant Publications
   Kristiansen, Marita. 2013. Towards a Norwegian infrastructure for terminology. In *Terminologen* 2: *Terminologi – ansvar og bevissthet*, 53–59,
   :::
 
+  :::PublicationEntry{to="https://nlterm.eu/wp-content/uploads/2025/09/TiNT2024_e-publicatie.pdf#page=40"}
+  Kristiansen, Marita. 2025. Termportalen. A Strategic Language policy tool to combat domain loss in Norwegian higher education. I *TiNT* 2024, 32–42,
+  :::
+
   :::PublicationEntry{to="https://lovdata.no/dokument/LTI/lov/2021-05-21-42"}
   Lov om språk (språklova),
   :::
