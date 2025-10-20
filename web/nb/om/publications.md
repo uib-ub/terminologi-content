@@ -25,7 +25,7 @@ Relevante publikasjoner
   Frå ord til handling. Handlingsplan for norsk fagspråk i akademia. 2023,
   :::
 
-  :::PublicationEntry{to="https://www.sprakradet.no/globalassets/vi-og-vart/publikasjoner/terminologen-2.pdf#page=52"}
+  :::PublicationEntry{to="https://www.nb.no/items/0b7c7affd562282f70b45db3403daf00?page=51"}
   Kristiansen, Marita. 2013. Towards a Norwegian infrastructure for terminology. I *Terminologen* 2: *Terminologi – ansvar og bevissthet*, 53–59,
   :::
 
@@ -49,7 +49,7 @@ Relevante publikasjoner
   St.meld.nr. 35 (2007–2008). Mål og meining. Ein heilskapleg norsk språkpolitikk,
   :::
 
-  :::PublicationEntry{to="https://www.sprakradet.no/upload/9832/norsk_i_hundre.pdf"}
+  :::PublicationEntry{to="https://sprakradet.no/wp-content/uploads/norsk_i_hundre.pdf"}
   Språkrådet 2005. Norsk i hundre! Norsk som nasjonalspråk i globaliseringens tidsalder. Et forslag til strategi,
   :::
 

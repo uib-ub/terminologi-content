@@ -23,7 +23,7 @@ Relevant Publications
   Frå ord til handling. Handlingsplan for norsk fagspråk i akademia. 2023,
   :::
 
-  :::PublicationEntry{to="https://www.sprakradet.no/globalassets/vi-og-vart/publikasjoner/terminologen-2.pdf#page=52"}
+  :::PublicationEntry{to="https://www.nb.no/items/0b7c7affd562282f70b45db3403daf00?page=51"}
   Kristiansen, Marita. 2013. Towards a Norwegian infrastructure for terminology. In *Terminologen* 2: *Terminologi – ansvar og bevissthet*, 53–59,
   :::
 
