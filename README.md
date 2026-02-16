@@ -20,7 +20,7 @@ Informasjon om bruk av markdown finnes i [admin-app-dokumentasjonen](https://ter
 # Repositoriestruktur
 
 - [`web`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/tree/main/web): Filer for [termportalen.no](https://www.termportalen.no/)
-    - [`nb`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/tree/main/web/nb)
+    - [`nb`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/tree/main/web/nb): Filer for bokmål-lokaliseringen
         - [`welcome.md`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/blob/main/web/nb/welcome.md): [termportalen.no / Forside](https://www.termportalen.no/)
         - [`hjelp`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/tree/main/web/nb/hjelp): [termportalen.no / Hjelp](https://www.termportalen.no/hjelp)
             - [`main.md`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/blob/main/web/nb/hjelp/main.md): Hjelp
@@ -36,7 +36,7 @@ Informasjon om bruk av markdown finnes i [admin-app-dokumentasjonen](https://ter
             - [`publications.md`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/blob/main/web/nb/om/publications.md): Om Termportalen / Historikk
             - [`get-started.md`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/blob/main/web/nb/om/get-started.md): Om Termportalen / Hvordan komme i gang ...
             - [`links.md`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/blob/main/web/nb/om/links.md): Om Termportalen / Nytigge lenker
-    - [`nn`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/tree/main/web/nn)
+    - [`nn`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/tree/main/web/nn): Filer for nynorsk-lokaliseringen
         - [`welcome.md`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/blob/main/web/nn/welcome.md): termportalen.no / Forside
         - [`hjelp`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/tree/main/web/nn/hjelp): termportalen.no / Hjelp
             - [`main.md`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/blob/main/web/nn/hjelp/main.md): Hjelp
@@ -52,7 +52,7 @@ Informasjon om bruk av markdown finnes i [admin-app-dokumentasjonen](https://ter
             - [`publications.md`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/blob/main/web/nn/om/publications.md): Om Termportalen / Historikk
             - [`get-started.md`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/blob/main/web/nn/om/get-started.md): Om Termportalen / Hvordan komme i gang ...
             - [`links.md`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/blob/main/web/nn/om/links.md): Om Termportalen / Nytigge lenker
-    - [`en`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/tree/main/web/en)
+    - [`en`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/tree/main/web/en): Filer for engelsk-lokaliseringen
         - [`welcome.md`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/blob/main/web/en/welcome.md): termportalen.no / Forside
         - [`hjelp`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/tree/main/web/en/hjelp): termportalen.no / Hjelp
             - [`main.md`](https://git.app.uib.no/spraksamlingane/terminologi/terminologi-content/-/blob/main/web/en/hjelp/main.md): Hjelp
