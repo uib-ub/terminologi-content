@@ -5,8 +5,7 @@ development and operation of Termportalen in line with its mandate.
 
 Termportalen’s advisory board members are:
 - Ole Våge, Norwegian Directorate of Health, **chair**
-- Pernille Cecilie Eikeland, National Union of Students in Norway
-- Thomas Helland-Hansen, National Union of Students in Norway (deputy member)
+- Jens Kristian Øvstebø, National Union of Students in Norway
 - Geir Vikan, board member of the Association of Government-Authorized Translators in Norway
 - Gisle Andersen, Norwegian School of Economics
 - Ivo Spira, Standards Norway

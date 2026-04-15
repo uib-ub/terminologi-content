@@ -1,5 +1,5 @@
 ::HeadingTp{level="h2" headingId="main"}
-Welcome to Termportalen
+Termportalen - National Infrastructure for Norwegian Terminology
 ::
 
 Termportalen gives free access to Norwegian terminology in a number of
