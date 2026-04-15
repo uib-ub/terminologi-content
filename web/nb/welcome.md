@@ -1,5 +1,5 @@
 ::HeadingTp{level="h2" headingId="main"}
-Velkommen til Termportalen
+Termportalen - nasjonal infrastruktur for norsk terminologi
 ::
 
 Termportalen gir fri tilgang til norsk terminologi på en lang rekke
