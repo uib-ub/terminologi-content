@@ -7,6 +7,6 @@
 - :AppLinkContent{desc="Janique Mano Knutsen, terminolog" to="https://www4.uib.no/finn-ansatte/Janique.Mano.Knudsen"}
 - :AppLinkContent{desc="Vetle-Einar Nordgård Mikkelsen, terminolog" to="https://www4.uib.no/finn-ansatte/vetle-einar.nordgard-mikkelsen"}
 - :AppLinkContent{desc="Jan Ole Bangen, systemutvikler" to="https://www.uib.no/personer/Jan.Ole.Bangen"}
-- :AppLinkContent{desc="Fereshta Heydari, systemutvikler" to="https://www.uib.no/personer/fereshta.heydari"}
+- :AppLinkContent{desc="Fereshta Ahmadi, systemutvikler" to="https://www4.uib.no/finn-ansatte/fereshta.ahmadi"}
 - Sol-Mari Hesjedal Langhelle, Førstekonsulent (midlertidig)
 ::
