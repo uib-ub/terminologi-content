@@ -8,4 +8,4 @@
 - :AppLinkContent{desc="Jan Ole Bangen, System Developer" to="https://www.uib.no/en/persons/Jan.Ole.Bangen"}
 - :AppLinkContent{desc="Fereshta Ahmadi, System Developer" to="https://www4.uib.no/en/find-employees/fereshta.ahmadi"}
 - Sol-Mari Hesjedal Langhelle, Senior Executive Officer (temporary)
-:
+::
