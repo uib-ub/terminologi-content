@@ -1,5 +1,5 @@
 ::PlainList
-- :AppLinkContent{desc="Tove Bjørneset, Principal Terminologist" to="https://www.uib.no/en/persons/Tove.Bj%C3%B8rneset"}
+- :AppLinkContent{desc="Tove Bjørneset, Head Terminologist" to="https://www.uib.no/en/persons/Tove.Bj%C3%B8rneset"}
 - :AppLinkContent{desc="Hilde Johansen, Terminologist" to="https://www.uib.no/en/persons/Hilde.Johansen"}
 - :AppLinkContent{desc="Lise Samdal, Terminologist" to="https://www4.uib.no/en/find-employees/Lise.Samdal"}
 - :AppLinkContent{desc="Kamilla Vattekar, Terminologist" to="https://www4.uib.no/en/find-employees/Kamilla.Vattekar"}
