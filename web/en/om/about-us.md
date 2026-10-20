@@ -7,5 +7,5 @@
 - :AppLinkContent{desc="Vetle-Einar Nordgård Mikkelsen, Terminologist" to="https://www4.uib.no/en/find-employees/vetle-einar.nordgard-mikkelsen"}
 - :AppLinkContent{desc="Jan Ole Bangen, System Developer" to="https://www.uib.no/en/persons/Jan.Ole.Bangen"}
 - :AppLinkContent{desc="Fereshta Ahmadi, System Developer" to="https://www4.uib.no/en/find-employees/fereshta.ahmadi"}
-- Sol-Mari Hesjedal Langhelle, Senior Executive Officer (temporary)
+- Sol-Mari Hesjedal Langhelle, Senior Executive Officer (temporary) to="https://www4.uib.no/en/find-employees/sol-mari-hesjedal.langhelle"}
 ::
