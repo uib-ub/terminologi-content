@@ -1,5 +1,5 @@
 ::PlainList
-- :AppLinkContent{desc="Tove Bjørneset, Principal Terminologist" to="https://www.uib.no/en/persons/Tove.Bj%C3%B8rneset"}
+- :AppLinkContent{desc="Tove Bjørneset, Head Terminologist" to="https://www.uib.no/en/persons/Tove.Bj%C3%B8rneset"}
 - :AppLinkContent{desc="Hilde Johansen, Terminologist" to="https://www.uib.no/en/persons/Hilde.Johansen"}
 - :AppLinkContent{desc="Lise Samdal, Terminologist" to="https://www4.uib.no/en/find-employees/Lise.Samdal"}
 - :AppLinkContent{desc="Kamilla Vattekar, Terminologist" to="https://www4.uib.no/en/find-employees/Kamilla.Vattekar"}
@@ -7,5 +7,5 @@
 - :AppLinkContent{desc="Vetle-Einar Nordgård Mikkelsen, Terminologist" to="https://www4.uib.no/en/find-employees/vetle-einar.nordgard-mikkelsen"}
 - :AppLinkContent{desc="Jan Ole Bangen, System Developer" to="https://www.uib.no/en/persons/Jan.Ole.Bangen"}
 - :AppLinkContent{desc="Fereshta Ahmadi, System Developer" to="https://www4.uib.no/en/find-employees/fereshta.ahmadi"}
-- Sol-Mari Hesjedal Langhelle, Senior Executive Officer (temporary)
+- Sol-Mari Hesjedal Langhelle, Higher Executive Officer (temporary) to="https://www4.uib.no/en/find-employees/sol-mari-hesjedal.langhelle"}
 ::
